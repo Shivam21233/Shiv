@@ -7,7 +7,7 @@
 #include <time.h>
 
 void usage() {
-    printf("Usage: ./beast ip port time threads\n");
+    printf("Usage: ./bgmi ip port time threads\n");
     exit(1);
 }
 
